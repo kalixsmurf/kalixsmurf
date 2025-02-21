@@ -29,6 +29,10 @@ I am a [METU](https://www.metu.edu.tr/) trained computer engineer who is interes
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/odoo.png" alt="Odoo" title="Odoo"/></code>
 </div>
 
+## 🛠️ My projects 
+- VDetect
+	- Description: A micro-service architectured vulnerability assessment platform.
+   	- Technologies: C#, ASP.NET, RabbitMQ, TypeScript, Node.js 
 <!--
 **kalixsmurf/kalixsmurf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
